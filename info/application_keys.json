@@ -1,0 +1,13 @@
+{
+    
+    "twitter" : {
+        "API_key" : "XXX",
+        "API_secret" : "XXX"
+    },
+
+    "dwstream" : {
+    	"API_key" : "XXX",
+        "API_secret" : "XXX"
+    }
+}
+       
